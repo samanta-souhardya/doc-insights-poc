@@ -1,0 +1,9 @@
+pymongo[srv]==3.11.0
+python-dotenv==0.19.2
+Flask==2.0.2
+flask-cors
+pypdf
+langchain==0.0.190
+openai
+tiktoken
+weaviate-client
